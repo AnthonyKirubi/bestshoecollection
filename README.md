@@ -1,2 +1,3 @@
-# bestshoecollection
-My First HTML Web Page
+# Best Shoe Collection
+## My First HTML Web Page
+### Somacode Project
